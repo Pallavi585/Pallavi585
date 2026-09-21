@@ -6,10 +6,12 @@
 Software development with Java Spring Boot and Spring Cloud Gateway ⚙️
 Writing JUnit tests to improve code coverage 📊
 Exploring AI/ML applications 🤖
+
 🌱 Currently Learning
 
 Machine Learning and Artificial Intelligence applications 🌟
 Advanced topics in Spring Boot and Spring Cloud 🧑‍💻
+
 💡 My Skills
 
 Languages: C/C++, Java, JavaScript, Python
@@ -18,11 +20,14 @@ Database: MongoDB, PostgreSQL, MySQL
 Tools: Git, Docker, Kubernetes, JUnit, Maven, Gradle
 AI/ML: TensorFlow, Scikit-learn, Pandas, NumPy
 Problem Solving: Data Structures and Algorithms, Competitive Programming
+
 🔍 What I Enjoy
 
 Exploring new technologies and contributing to open-source projects 💻
 Continuously improving my problem-solving skills and software design principles 📚
 Collaborating with like-minded developers on impactful projects 🌍
+
+
 🌍 Let's Connect
 
 Feel free to open issues, contribute, or simply drop a message! 🚀
