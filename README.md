@@ -45,6 +45,7 @@ Collaborating with like-minded developers on impactful projects 🌍
 **🌍 Let's Connect:**
 
 Feel free to open issues, contribute, or simply drop a message! 🚀
+
 Linkedin: Pallavi Sudhireddy
 <!--
 **Pallavi585/Pallavi585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
