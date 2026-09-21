@@ -1,7 +1,7 @@
 ## Hi there, I’m Pallavi Sudhireddy👋
 
 
-🔭 Currently Working On:
+**🔭 Currently Working On**
 
 Software development with Java Spring Boot and Spring Cloud Gateway ⚙️
 
@@ -10,14 +10,14 @@ Writing JUnit tests to improve code coverage 📊
 Exploring AI/ML applications 🤖
 
 
-🌱 Currently Learning
+**🌱 Currently Learning**
 
 Machine Learning and Artificial Intelligence applications 🌟
 
 Advanced topics in Spring Boot and Spring Cloud 🧑‍💻
 
 
-💡 My Skills
+**💡 My Skills**
 
 Languages: C/C++, Java, JavaScript, Python
 
@@ -32,7 +32,7 @@ AI/ML: TensorFlow, Scikit-learn, Pandas, NumPy
 Problem Solving: Data Structures and Algorithms, Competitive Programming
 
 
-🔍 What I Enjoy
+**🔍 What I Enjoy**
 
 Exploring new technologies and contributing to open-source projects 💻
 
@@ -42,10 +42,10 @@ Collaborating with like-minded developers on impactful projects 🌍
 
 
 
-🌍 Let's Connect
+**🌍 Let's Connect**
 
 Feel free to open issues, contribute, or simply drop a message! 🚀
-
+Linkedin: Pallavi Sudhireddy
 <!--
 **Pallavi585/Pallavi585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
